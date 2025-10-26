@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Daniel, and I'm an self trained and mostly self taught biology student, with a background in R, currently interested in Python and Data Science!
+
+- 🔭 I’m currently working on esatblishing a toolkit, to be able to handle my first RNA-Seq dataset
+- ⚡ I recently completed the first step, to genome annotations, check it out here [here](https://github.com/git-gnome/Bioinformatics_genom_pipeline)
+- 🌱 I’m currently learning (Python), to enhance my bioinformatic knowledge to be prepared for my Master 
+
 <!--
 **git-gnome/git-gnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
